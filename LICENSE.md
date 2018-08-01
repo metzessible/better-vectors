@@ -67,6 +67,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
         1. a notice that refers to this Public License;
         1. a notice that refers to the disclaimer of warranties;
         1. a URI or hyperlink to the Licensed Material to the extent reasonably practicable;
+        1. an alternate description for any use other than decoration;
     2. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and
     3. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License.
 2. You may satisfy the conditions in [Section 3(a)(1)](#a-attribution) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
@@ -77,6 +78,7 @@ In addition to the conditions in Section 3(a), if You Share Adapted Material You
 
 1. The Adapter’s License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-SA Compatible License.
 1. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
+1. You must make an alternative description available for any use other than decoration. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material. 
 1. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
 
 ### Section 4 – Sui Generis Database Rights.
