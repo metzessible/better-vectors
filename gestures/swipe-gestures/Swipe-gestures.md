@@ -1,6 +1,6 @@
-# About these gestures
+# About these files
 
-This is a collection of gestures that relate to **tapping**.
+This is a collection of gestures that relate to **swiping**.
 Both folders contain the same files with the same filenames, and they've been created with an included XMP file.
 
 ## AI Folder
